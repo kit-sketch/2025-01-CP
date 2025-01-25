@@ -16,6 +16,7 @@ int collatzSteps(int n) {
     return steps;
 }
 
+/// This function is the main function
 int main() {
     cout << "20001 \t" << "Alan Turing \t";
     // Replace 20001 with your Roll Number and Alan Turing by your name.
